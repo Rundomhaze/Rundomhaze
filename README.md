@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rundomhaze
-- 👀 I’m interested in snowboard
+- 👀 I’m interested in snowboarding
 - 🌱 I’m currently learning JS
-- 📫 How to reach me: petenkov2822@gmail.com
+- 📫 How to reach me: https://t.me/Rundomhaze
 
 <!---
 Rundomhaze/Rundomhaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
