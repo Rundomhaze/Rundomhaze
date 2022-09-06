@@ -38,6 +38,7 @@
           
 
 
-
+<div align=center>
 <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Aleksey Petenkov GitHub stats](https://github-readme-stats.vercel.app/api?username=Rundomhaze&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Rundomhaze/github-readme-stats)</span>
+</div>
 
