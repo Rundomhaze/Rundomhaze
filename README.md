@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Rundomhaze
-- 👀 I’m interested in snowboarding
-- 🌱 I’m currently learning JS
-- 📫 How to reach me: https://t.me/Rundomhaze
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=DDE4F7&center=true&multiline=true&width=435&lines=%E2%96%80%E2%96%84%E2%96%80%E2%96%84%E2%96%80%E2%96%84++%F0%9F%85%B7%F0%9F%85%B8%2C+%F0%9F%85%B8'%F0%9F%85%BC+%F0%9F%85%B0%F0%9F%85%BB%F0%9F%85%B4%F0%9F%85%BA%F0%9F%86%82%F0%9F%85%B4%F0%9F%86%88!+%E2%96%84%E2%96%80%E2%96%84%E2%96%80%E2%96%84%E2%96%80" alt="Typing SVG" /></a>
+</div>
 
-<!---
-Rundomhaze/Rundomhaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&duration=3000&pause=2000&color=DDE4F7&center=true&multiline=true&width=435&lines=%F0%9D%95%80+%F0%9D%95%92%F0%9D%95%9E+%F0%9D%95%92+%F0%9D%95%A8%F0%9D%95%96%F0%9D%95%93+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%A3+%F0%9D%95%A8%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%99+%F0%9D%95%A0%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%A3+%F0%9D%95%92+%F0%9D%95%AA%F0%9D%95%96%F0%9D%95%92%F0%9D%95%A3+%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%92+%F0%9D%95%99%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%97+%F0%9D%95%96%F0%9D%95%A9%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%9A%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%94%F0%9D%95%96.;%F0%9D%95%80+%F0%9D%95%99%F0%9D%95%92%F0%9D%95%A7%F0%9D%95%96+%F0%9D%95%92+%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%98%F0%9D%95%99+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%98%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%96+%F0%9D%95%A0%F0%9D%95%97+%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%A4%F0%9D%95%A1%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%93%F0%9D%95%9A%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%AA+%F0%9D%95%97%F0%9D%95%A0%F0%9D%95%A3+%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%96+%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%98%F0%9D%95%9F%F0%9D%95%96%F0%9D%95%95+%F0%9D%95%A5%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%9C%F0%9D%95%A4.;%F0%9D%95%83%F0%9D%95%96%F0%9D%95%92%F0%9D%95%A3%F0%9D%95%9F%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%98+%F0%9D%95%9F%F0%9D%95%96%F0%9D%95%A8+%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%94%F0%9D%95%99%F0%9D%95%9F%F0%9D%95%A0%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%98%F0%9D%95%9A%F0%9D%95%96%F0%9D%95%A4+%F0%9D%95%A2%F0%9D%95%A6%F0%9D%95%9A%F0%9D%95%94%F0%9D%95%9C%F0%9D%95%9D%F0%9D%95%AA+%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%A8%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%99+%F0%9D%95%98%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%92%F0%9D%95%A5+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%A3%F0%9D%95%96!" alt="Typing SVG" /></a>
+</div>
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+[![Aleksey Petenkov GitHub stats](https://github-readme-stats.vercel.app/api?username=Rundomhaze&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Rundomhaze/github-readme-stats)
