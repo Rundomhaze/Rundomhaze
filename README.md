@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&duration=3000&pause=2000&color=DDE4F7&center=true&multiline=true&width=435&lines=%F0%9D%95%80+%F0%9D%95%92%F0%9D%95%9E+%F0%9D%95%92+%F0%9D%95%A8%F0%9D%95%96%F0%9D%95%93+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%A3+%F0%9D%95%A8%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%99+%F0%9D%95%A0%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%A3+%F0%9D%95%92+%F0%9D%95%AA%F0%9D%95%96%F0%9D%95%92%F0%9D%95%A3+%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%92+%F0%9D%95%99%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%97+%F0%9D%95%96%F0%9D%95%A9%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%9A%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%94%F0%9D%95%96.;%F0%9D%95%80+%F0%9D%95%99%F0%9D%95%92%F0%9D%95%A7%F0%9D%95%96+%F0%9D%95%92+%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%98%F0%9D%95%99+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%98%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%96+%F0%9D%95%A0%F0%9D%95%97+%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%A4%F0%9D%95%A1%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%93%F0%9D%95%9A%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%AA+%F0%9D%95%97%F0%9D%95%A0%F0%9D%95%A3+%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%96+%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%98%F0%9D%95%9F%F0%9D%95%96%F0%9D%95%95+%F0%9D%95%A5%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%9C%F0%9D%95%A4.;%F0%9D%95%83%F0%9D%95%96%F0%9D%95%92%F0%9D%95%A3%F0%9D%95%9F%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%98+%F0%9D%95%9F%F0%9D%95%96%F0%9D%95%A8+%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%94%F0%9D%95%99%F0%9D%95%9F%F0%9D%95%A0%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%98%F0%9D%95%9A%F0%9D%95%96%F0%9D%95%A4+%F0%9D%95%A2%F0%9D%95%A6%F0%9D%95%9A%F0%9D%95%94%F0%9D%95%9C%F0%9D%95%9D%F0%9D%95%AA+%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%A8%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%99+%F0%9D%95%98%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%92%F0%9D%95%A5+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%A3%F0%9D%95%96!" alt="Typing SVG" /></a>
 </div>
 
-</br></br>
+</br>
 
 <div align=center><h4>My steck:</h4></div>
 <div align=center>       
@@ -34,23 +34,30 @@
 </div>
 
 
-</br></br></br>
+</br>
 
 <!-- <span style="display:flex; flex-direction:row; justify-content:center;align:center;">![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)</span> -->
 
-</br></br></br>
+</br>
 
 <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rundomhaze&theme=react-dark)](https://github.com/Rundomhaze/github-readme-activity-graph)</span>
 
-</br></br></br>
+</br>
 
 <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Aleksey Petenkov GitHub stats](https://github-readme-stats.vercel.app/api?username=Rundomhaze&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Rundomhaze/github-readme-stats)</span>
+
 </br>
+
 <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rundomhaze&theme=dark&hide_border=true)](https://git.io/streak-stats)</span>
+
 </br>
+
 <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rundomhaze&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
+
 </br>
+
 <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![codewars](https://www.codewars.com/users/Randomhaze/badges/large)](https://www.codewars.com/users/Randomhaze)</span>
+
 </br>
 
 
