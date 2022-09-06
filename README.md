@@ -10,7 +10,7 @@
 </br></br></br>
 <p align=center>
 <div align=center><h4>My steck:</h4></div>
-<div style="display:flex; flex-direction:row; justify-content:center; gap:25px; align:center;">
+
 </br></br></br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="NODEJS"/>    
@@ -22,9 +22,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" alt="materialui"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="express"/>          
 
-</div>
 
-<div style="display:flex; flex-direction:row; justify-content:center; gap:5px; align:center;">
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="45" alt="sequelize"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="45" alt="postgresql"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" alt="jest"/>
@@ -33,7 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" width="45" alt="docker"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="github"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45" alt="git" />
-</div>
+
 </p>
           
 
