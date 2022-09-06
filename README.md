@@ -42,6 +42,8 @@
 
 <div align="center">
 
+<h4>My stats:</h4>
+
 <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rundomhaze&theme=react-dark)](https://github.com/Rundomhaze/github-readme-activity-graph)</span>
 
 </br>
@@ -62,6 +64,23 @@
 
 </br>
 
+<div align=center>
+
+<h4>My contacts:</h4>
+
+<a href="https://t.me/Rundomhaze" title="telegram">
+    <img width="30"src="https://img.icons8.com/color/344/telegram-app--v1.png">
+</a>
+
+<a href="https://www.linkedin.com/in/aleksey-petenkov/" title="linkedin">
+    <img width="30"src="https://img.icons8.com/color/452/linkedin.png">
+</a>
+
+<a href="mailto:aleksey.petenkov@gmail.com" title="gmail">
+    <img width="30"src="https://img.icons8.com/color/452/gmail--v1.png">
+</a>
+
+</div>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=Rundomhaze)
