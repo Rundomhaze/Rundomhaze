@@ -71,7 +71,7 @@
 
 <h4>My contacts:</h4>
 
-<a href="https://t.me/Rundomhaze" title="telegram">
+<a href="https://t.me/alxypt" title="telegram">
     <img width="30"src="https://img.icons8.com/color/344/telegram-app--v1.png">
 </a>
 
