@@ -44,9 +44,9 @@
 
 <div align="center">
 
-<h4>My stats:</h4>
+<!--<h4>My stats:</h4>
 
-<span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rundomhaze&theme=react-dark)](https://github.com/Rundomhaze/github-readme-activity-graph)</span>
+<span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rundomhaze&theme=react-dark)](https://github.com/Rundomhaze/github-readme-activity-graph)</span>-->
 
 </br>
 
