@@ -39,7 +39,7 @@
 
 <!-- <span style="display:flex; flex-direction:row; justify-content:center;align:center;">![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)</span> -->
 
-</br>
+<!-- </br> -->
 
 <div align="center">
 
@@ -47,20 +47,20 @@
 
 <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rundomhaze&theme=react-dark)](https://github.com/Rundomhaze/github-readme-activity-graph)</span>-->
 
-</br>
+<!-- </br> -->
 
 <!-- <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Aleksey Petenkov GitHub stats](https://github-readme-stats.vercel.app/api?username=Rundomhaze&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Rundomhaze/github-readme-stats)</span> -->
 
-</br>
+<!-- </br> -->
 
 <!-- <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rundomhaze&theme=dark&hide_border=true)](https://git.io/streak-stats)</span> -->
 
-</br>
+<!-- </br> -->
 
 
 <!-- <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rundomhaze&langs_count=8&theme=dark&layout=compact)](https://github.com/Rundomhaze/github-readme-stats)</span> -->
 
-</br>
+<!-- </br> -->
 
 <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![codewars](https://www.codewars.com/users/Randomhaze/badges/large)](https://www.codewars.com/users/Randomhaze)</span>
 
