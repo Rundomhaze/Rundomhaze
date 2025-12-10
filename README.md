@@ -49,16 +49,16 @@
 
 </br>
 
-<span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Aleksey Petenkov GitHub stats](https://github-readme-stats.vercel.app/api?username=Rundomhaze&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Rundomhaze/github-readme-stats)</span>
+<!-- <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Aleksey Petenkov GitHub stats](https://github-readme-stats.vercel.app/api?username=Rundomhaze&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Rundomhaze/github-readme-stats)</span> -->
 
 </br>
 
-<span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rundomhaze&theme=dark&hide_border=true)](https://git.io/streak-stats)</span>
+<!-- <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rundomhaze&theme=dark&hide_border=true)](https://git.io/streak-stats)</span> -->
 
 </br>
 
 
-<span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rundomhaze&langs_count=8&theme=dark&layout=compact)](https://github.com/Rundomhaze/github-readme-stats)</span>
+<!-- <span style="display:flex; flex-direction:row; justify-content:center;align:center;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rundomhaze&langs_count=8&theme=dark&layout=compact)](https://github.com/Rundomhaze/github-readme-stats)</span> -->
 
 </br>
 
